@@ -1,0 +1,10 @@
+.DS_Store
+S2050 Scan.app/
+source/bin/
+source/dist/
+
+# Auszüge aus dem geschlossenen Kodak-Linux-Treiber: Disassembly und
+# originale Ressourcen. Nicht Teil des öffentlichen Repos.
+source/evidence/*.asm
+source/evidence/vendor-camera-defaults.xml
+source/evidence/vendor-status-device.xml

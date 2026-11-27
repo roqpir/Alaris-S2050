@@ -1,0 +1,3 @@
+Alaris S2050 USB diagnostic — not a scanner driver
+Found S2050 1 (29cc:1019)
+Device plug-in: 0xe00002be ((iokit/common) resource shortage)
